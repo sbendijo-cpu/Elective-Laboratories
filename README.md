@@ -12,11 +12,14 @@ I love doing things
 
 ## Laboratory 2 – Branding Assets
 
+### Branding
+![Elective Laboratories Logo](laboratory%202/branding/logo/Sigmund%20Vincent%20Bendijo%20(1).png)
+
 ### Logo
 ![Elective Laboratories Logo](laboratory%202/branding/logo/Sig.png)
 
 ### Color Palette
-![Color Palette](laboratory%202/branding/palette/palette.png)
+![Color Palette](laboratory%202/branding/palette/Copy%20of%20Sigmund%20Vincent%20Bendijo.png)
 
 ### Banner
-![Banner](laboratory%202/branding/banner/banner.png)
+![Banner](laboratory%202/branding/banner/Sigmund%20Vincent%20Bendijo%20.png)
