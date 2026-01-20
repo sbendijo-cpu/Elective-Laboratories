@@ -13,7 +13,7 @@ I love doing things
 ## Laboratory 2 – Branding Assets
 
 ### Branding
-![Elective Laboratories Logo](laboratory%202/branding/logo/branding.png)
+![Elective Laboratories Logo](laboratory%202/branding/branding/branding.png)
 
 ### Logo
 ![Elective Laboratories Logo](laboratory%202/branding/logo/logo.png)
