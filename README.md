@@ -1,4 +1,6 @@
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZuZWpicjVoaTk1bnV2NWxkaXkzd25laDVra2JydTFpaDY5ZjR0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igyfXHSWGHZME0PLvr/giphy.gif)" width="500"/>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/meme-shield-purrincess-igyfXHSWGHZME0PLvr)" width="500"/>
+
+
 ![Elective Laboratories Logo](laboratory%203/Social%20Media%20Branding%20Graphics/Profile%20Banner/banner.png)
 
 <!-- HEADER / HERO SECTION -->
