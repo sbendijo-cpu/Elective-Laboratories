@@ -3,7 +3,6 @@
 <!-- HEADER / HERO SECTION -->
 <div align="center">
 
-<img src="YOUR_LOGO_IMAGE_LINK_HERE" width="140" alt="Sigmund Vincent Bendijo Logo"/>
 
 # Hi, I’m **Sigmund Vincent Bendijo**
 
