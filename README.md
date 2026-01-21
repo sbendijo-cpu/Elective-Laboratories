@@ -91,10 +91,10 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 
 ## Laboratory 3 – Social Media Branding Graphics
 
-### Square Social Media Post
+### Profile Banner
 ![Elective Laboratories Logo](laboratory%203/Social%20Media%20Branding%20Graphics/Profile%20Banner/banner.png)
 
-### Profile Banner
+### Square Social Media Post
 ![Elective Laboratories Logo](laboratory%203/Social%20Media%20Branding%20Graphics/Promotional%20Image/square_post.png)
 
 ### Profile Banner
