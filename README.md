@@ -8,6 +8,8 @@
 
 ### Marking territory in the 21st century of digital technology
 
+![Elective Laboratories Logo](laboratory%202/branding/logo/logo.png)
+
 </div>
 
 ---
