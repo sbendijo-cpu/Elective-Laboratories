@@ -1,9 +1,5 @@
 ![Elective Laboratories Logo](laboratory%203/Social%20Media%20Branding%20Graphics/Profile%20Banner/banner.png)
 
-## My name is Sigmund Vincent Bendijo, a 2nd Year Business Management Student
-### I want to mark territory in this 21st century of digital technology.
-I am 20 years old, and curious on how 
-
 <!-- HEADER / HERO SECTION -->
 <div align="center">
 
@@ -62,7 +58,7 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 ## 📫 Contact Me
 
 - 📧 Email: **sbendijo@addu.edu.ph**
-- 💼 LinkedIn: *(optional – add when ready)*
+
 
 ---
 
@@ -71,11 +67,6 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 ✨ *Always learning. Always building.* ✨
 
 </div>
-
-
-
-
-
 
 
 
