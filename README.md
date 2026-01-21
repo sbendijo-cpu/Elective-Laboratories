@@ -89,7 +89,17 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 ### Banner
 ![Banner](laboratory%202/branding/banner/banner.png)
 
-## Laboratory 3 – Branding Assets
+## Laboratory 3 – Social Media Branding Graphics
+
+### Square Social Media Post
+![Elective Laboratories Logo](laboratory%203/Social%20Media%20Branding%20Graphics/Profile%20Banner/banner.png)
+
+### Profile Banner
+![Elective Laboratories Logo](laboratory%203/Social%20Media%20Branding%20Graphics/Promotional%20Image/square_post.png)
+
+### Profile Banner
+![Elective Laboratories Logo](laboratory%203/Social%20Media%20Branding%20Graphics/Profile%20Banner/banner.png)
+
 
 ## Laboratory 4 – Branding Assets
 
