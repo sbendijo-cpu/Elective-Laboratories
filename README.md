@@ -47,10 +47,11 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 
 ## 🚀 Current Projects
 
-- 📘 **Laboratory 2 – Branding Assets**
-- 🧩 Personal GitHub profile customization
-- 🎨 Exploring visual identity and personal branding
-- 📚 Learning digital tools for business and creativity
+- 📘 **Laboratory 1 – Personal Introduction Micro-Presentation Using Canva**
+- 📘 **Laboratory 2 – Personal Branding Kit + GitHub Profile Setup**
+- 📘 **Laboratory 3 – Social Media Branding Graphics**
+- 📘 **Laboratory 4 – Infographic + Mini Project Documentation** 
+
 
 ---
 
