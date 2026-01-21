@@ -73,6 +73,7 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 
 
 ## Laboratory 1 – Branding Assets
+readme.md
 
 ## Laboratory 2 – Branding Assets
 
