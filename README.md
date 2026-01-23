@@ -89,6 +89,15 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 ### Banner
 ![Banner](laboratory%202/branding/banner/banner.png)
 
+## Reflection 
+### 1. My branding was inspired by the idea of marking territory in the digital age, where personal identity and presence are established through technology and creativity.
+
+### 2. I chose a deep blue and gold palette to represent trust, intelligence, and stability, balanced with confidence, value, and ambition.
+
+### 3.The most challenging part of creating the logo was achieving a balance between elegance, symbolism, and readability, especially using initials as the main visual element.
+
+### 4. I plan to use this branding consistently in future academic projects, portfolios, and digital platforms to build a strong and recognizable personal identity.
+
 ## Laboratory 3 – Social Media Branding Graphics
 
 ### Profile Banner
