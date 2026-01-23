@@ -112,7 +112,7 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 
 ## Laboratory 4 – Infographic + Mini Project Documentation
 
-[Check out my presentation]([https://www.canva.com/design/DAG9i7vSTD0/fcwxjwZK8CNtq97s0dw8RQ/edit?utm_content=DAG9i7vSTD0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://docs.google.com/document/d/1d0yca5Mpy7vPrkdZ1wx7lhgDmothwEuQP7yyFVVbrjo/edit?usp=sharing))
+[Check out my presentation](https://docs.google.com/document/d/1d0yca5Mpy7vPrkdZ1wx7lhgDmothwEuQP7yyFVVbrjo/edit?usp=sharing)
 
 ## Laboratory 5 – Branding Assets
 
