@@ -75,6 +75,8 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 ## Laboratory 1 – Branding Assets
 [Check out my presentation](https://www.canva.com/design/DAG9i7vSTD0/fcwxjwZK8CNtq97s0dw8RQ/edit?utm_content=DAG9i7vSTD0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+---
+
 ## Laboratory 2 – Branding Assets
 
 ### Branding
@@ -98,6 +100,8 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 
 ### 4. I plan to use this branding consistently in future academic projects, portfolios, and digital platforms to build a strong and recognizable personal identity.
 
+---
+
 ## Laboratory 3 – Social Media Branding Graphics
 
 ### Profile Banner
@@ -118,6 +122,7 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 
 ### 4.I learned that effective social media graphics rely on simplicity, clear visual hierarchy, and concise messaging to quickly capture attention and communicate meaning.
 
+---
 
 ## Laboratory 4 – Infographic + Mini Project Documentation
 
