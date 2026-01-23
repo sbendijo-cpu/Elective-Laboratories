@@ -109,6 +109,15 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 ### Profile Banner
 ![Elective Laboratories Logo](laboratory%203/Social%20Media%20Branding%20Graphics/Square%20Social%20Media%20Post/promo.png)
 
+## Reflection
+### 1.The quote-based social media graphic was the easiest to create because it focused on strong typography and minimal elements rather than complex layouts.
+
+### 2.Consistent branding was applied through a limited color palette, clean serif typography, and a minimal, modern aesthetic that aligns with an academic and motivational theme.
+
+### 3.Readability and hierarchy were ensured by using size contrast—larger text for the headline and smaller text for the supporting quote—along with high contrast between text and background.
+
+### 4.I learned that effective social media graphics rely on simplicity, clear visual hierarchy, and concise messaging to quickly capture attention and communicate meaning.
+
 
 ## Laboratory 4 – Infographic + Mini Project Documentation
 
