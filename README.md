@@ -112,6 +112,8 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 
 ## Laboratory 4 – Infographic + Mini Project Documentation
 
+![Elective Laboratories Logo](laboratory%204/Infographic%20+%20Mini%20Project%20Documentation/bendijo-lab4.png)
+
 [Check out my presentation](https://docs.google.com/document/d/1d0yca5Mpy7vPrkdZ1wx7lhgDmothwEuQP7yyFVVbrjo/edit?usp=sharing)
 
 ## Laboratory 5 – Branding Assets
