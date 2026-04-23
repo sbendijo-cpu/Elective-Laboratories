@@ -142,6 +142,7 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 
 
 ## Laboratory 9
+![Laboratory 9](laboratory%209/https___matcha-trio-portfolio--sbendijo.pdf)
 
 ## Laboratory 10
 ![View my PDF!](laboratory%2010/Laboratory10_BENDIJO.pdf)
