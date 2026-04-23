@@ -133,10 +133,10 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 ## Laboratory 5 – Branding Assets
 
 ## Laboratory 6 - 
-![BOLTON CELTICS PRESENTATION] (laboratory%206/Laboratory%206_BOLTON%20CELTICS.zip)
+![BOLTON CELTICS PRESENTATION](laboratory%206/Laboratory%206_BOLTON%20CELTICS.zip)
 
 ## Laboratory 7
-![Elective Laboratories Logo](laboratory%207/Laboratory%207_%20Collaborative%20Data%20Management%20%20Analytics%20Project.pdf)
+![View my PDF!](laboratory%207/Laboratory%207_%20Collaborative%20Data%20Management%20%20Analytics%20Project.pdf)
 ## Laboratory 8
 
 ## Laboratory 9
