@@ -132,3 +132,6 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 
 ## Laboratory 5 – Branding Assets
 
+## Laboratory 6 - 
+![BOLTON CELTICS PRESENTATION](laboratory%206/Laboratory%206_BOLTON CELTICS.zip)
+
