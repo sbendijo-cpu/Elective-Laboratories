@@ -137,7 +137,15 @@ I believe learning doesn’t stop in the classroom — it happens through experi
 
 ## Laboratory 7
 ![View my PDF!](laboratory%207/Laboratory%207_%20Collaborative%20Data%20Management%20%20Analytics%20Project.pdf)
+<details>
+  <summary>Click to view PDF Preview</summary>
+  
+  ![PDF Preview](./images/preview.png)
+  [Download Full PDF](./document.pdf)
+</details>
+
 ## Laboratory 8
+
 
 ## Laboratory 9
 
